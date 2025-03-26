@@ -179,7 +179,7 @@ body {
     content: 'Graphic Designer';
 }
 .container .profileLayout .profileBadges .profileBadge.imagehost:hover::before {
-    content: 'Image Host';
+    content: 'Cineasta amadora';
 }
 
 .container .profileLayout .profileBio {
