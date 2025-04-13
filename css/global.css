@@ -85,7 +85,7 @@ body {
 }
 
 #background-layer-1 {
-    background-image: url(https://images.alphacoders.com/678/thumb-1920-678281.jpg);
+    background-image: url(https://wallpapercave.com/wp/wp13716049.gif);
     background-size: cover;
     will-change: transform;
     transform: translateZ(0);
@@ -139,7 +139,8 @@ body {
 	transform: translateY(0);
   }
 
-/* Estilos para a lockscreen */
+/* Estilos para a loc
+screen */
 .lockscreen {
 	position: fixed;
 	top: 0;
