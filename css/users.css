@@ -221,7 +221,8 @@ body {
     }
 }
 
-.container .presenceWrapper .discordInfos {
+.container .presenceWrapper .
+dInfos {
     display: flex;
     gap: 10px;
     justify-content: left;
