@@ -1,5 +1,5 @@
         // Texto que será exibido no <title>
-        const titleText = "Lunox(Lana_detectada)";
+        const titleText = "Lunox(Lara_detectada)";
         let index = 0;
 
         // Função para animar o título
